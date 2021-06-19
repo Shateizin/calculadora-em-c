@@ -1,2 +1,3 @@
-# calculadora-em-c
-Uma calculadora em C
+# Calculadora em C
+**Uma calculadora em C bem simples é normal**
+
